@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AD325_Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/vc_screenshots/Week1_exercises.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysWork/ArrMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysWork/ArrMethodsInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysWork/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassObjects/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassObjects/StudentInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedIntList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/LinkedIntListInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionMethodsInterface.java" afterDir="false" />
-    </list>
+    <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
