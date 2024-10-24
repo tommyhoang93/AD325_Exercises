@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="">
+    <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="week3_screenshots">
+      <change afterPath="$PROJECT_DIR$/screenshots/Project1_SC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deque/DequeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deque/EmptyQueueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deque/LinkedDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StockLedger/LedgerEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StockLedger/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StockLedger/StockLedger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StockLedger/StockLedgerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StockLedger/StockPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/LinkedDequeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/StockLedgerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD325_Exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AD325_Exercises.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +33,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -44,42 +61,106 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LinkedList.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/student/Desktop/Data Structures/AD325_Exercises/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayMain.executor": "Run",
+    "Application.LinkedList.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Recursion.Main.executor": "Run",
+    "Application.StockLedger.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.All in AD325_Exercises.executor": "Coverage",
+    "JUnit.LinkedDequeTest.executor": "Run",
+    "JUnit.StockLedgerTest.buy.executor": "Run",
+    "JUnit.StockLedgerTest.contains.executor": "Run",
+    "JUnit.StockLedgerTest.executor": "Run",
+    "JUnit.StockLedgerTest.getEntry.executor": "Run",
+    "JUnit.StockLedgerTest.sell.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "Project__1",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/student/Desktop/Data Structures/AD325_Exercises/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots/other_screenshots" />
       <recent name="$PROJECT_DIR$/screenshots/vc_screenshots" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Deque" />
+      <recent name="StockLedger" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysWork.Main" />
+  <component name="RunManager" selected="JUnit.All in AD325_Exercises">
+    <configuration name="All in AD325_Exercises" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AD325_Exercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysWork.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedDequeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AD325_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedDequeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockLedgerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AD325_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StockLedgerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockLedgerTest.buy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AD325_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StockLedgerTest" />
+      <option name="METHOD_NAME" value="buy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockLedgerTest.getEntry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AD325_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StockLedgerTest" />
+      <option name="METHOD_NAME" value="getEntry" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in AD325_Exercises" />
+        <item itemvalue="JUnit.LinkedDequeTest" />
+        <item itemvalue="JUnit.StockLedgerTest" />
+        <item itemvalue="JUnit.StockLedgerTest.getEntry" />
+        <item itemvalue="JUnit.StockLedgerTest.buy" />
       </list>
     </recent_temporary>
   </component>
@@ -92,6 +173,59 @@
       <option name="presentableId" value="Default" />
       <updated>1727939177589</updated>
     </task>
+    <task id="LOCAL-00001" summary="week1">
+      <option name="closed" value="true" />
+      <created>1728266689248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728266689248</updated>
+    </task>
+    <task id="LOCAL-00002" summary="week1">
+      <option name="closed" value="true" />
+      <created>1728267041672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728267041672</updated>
+    </task>
+    <task id="LOCAL-00003" summary="week2">
+      <option name="closed" value="true" />
+      <created>1728625819548</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728625819548</updated>
+    </task>
+    <task id="LOCAL-00004" summary="week3_screenshots">
+      <option name="closed" value="true" />
+      <created>1729031921718</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729031921718</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="week1" />
+    <MESSAGE value="week2" />
+    <MESSAGE value="week3_screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="week3_screenshots" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AD325_Exercises$All_in_AD325_Exercises.ic" NAME="All in AD325_Exercises Coverage Results" MODIFIED="1729727708737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
