@@ -8,20 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="week3_screenshots">
-      <change afterPath="$PROJECT_DIR$/screenshots/Project1_SC" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deque/DequeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deque/EmptyQueueException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Deque/LinkedDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StockLedger/LedgerEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StockLedger/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StockLedger/StockLedger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StockLedger/StockLedgerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StockLedger/StockPurchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/LinkedDequeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/StockLedgerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AD325_Exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AD325_Exercises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/vc_screenshots/Project1 sc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/vc_screenshots/Project1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +37,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/tommyhoang93/AD325_Exercises&quot;,
+    &quot;url&quot;: &quot;https://github.com/tommyhoang93/project_1.git&quot;,
     &quot;accountId&quot;: &quot;702cb608-460c-4f6b-bef9-898f4cfe42b9&quot;
   }
 }</component>
@@ -80,10 +69,11 @@
     "Repository.Attach.JavaDocs": "true",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "Project__1",
+    "git-widget-placeholder": "week4",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/student/Desktop/Data Structures/AD325_Exercises/src/Main.java",
     "project.structure.last.edited": "Modules",
@@ -93,8 +83,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/screenshots/other_screenshots" />
+      <recent name="$PROJECT_DIR$/screenshots/week4" />
       <recent name="$PROJECT_DIR$/screenshots/vc_screenshots" />
+      <recent name="$PROJECT_DIR$/screenshots/other_screenshots" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -205,7 +196,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729031921718</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="week3_screenshots">
+      <option name="closed" value="true" />
+      <created>1729804257970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729804257970</updated>
+    </task>
+    <task id="LOCAL-00006" summary="week3_screenshots">
+      <option name="closed" value="true" />
+      <created>1729833416050</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729833416050</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +232,22 @@
     <MESSAGE value="week3_screenshots" />
     <option name="LAST_COMMIT_MESSAGE" value="week3_screenshots" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/StockLedger/LedgerEntry.java</url>
+          <line>42</line>
+          <properties class="StockLedger.LedgerEntry" method="setSharesBought">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AD325_Exercises$All_in_AD325_Exercises.ic" NAME="All in AD325_Exercises Coverage Results" MODIFIED="1729727708737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/AD325_Exercises$All_in_AD325_Exercises.ic" NAME="All in AD325_Exercises Coverage Results" MODIFIED="1729728454999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
