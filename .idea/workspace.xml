@@ -7,7 +7,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="week3_screenshots" />
+    <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="week3_screenshots">
+      <change afterPath="$PROJECT_DIR$/screenshots/week6/branch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueueInterface/EmptyQueueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueueInterface/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueueInterface/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueueInterface/QueueInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackAndQueueInterface/StackInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreePackage/BinaryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreePackage/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreePackage/BinaryTreeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreePackage/EmptyTreeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreePackage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreePackage/TreeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreePackage/TreeIteratorInterface.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,9 +30,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -69,7 +83,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "week5",
+    "git-widget-placeholder": "week6",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/student/Desktop/Data Structures/AD325_Exercises/src/Main.java",
     "project.structure.last.edited": "Modules",
@@ -79,6 +93,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots/week6" />
       <recent name="$PROJECT_DIR$/screenshots/week5_sc" />
       <recent name="$PROJECT_DIR$/screenshots/week4" />
       <recent name="$PROJECT_DIR$/screenshots/vc_screenshots" />
