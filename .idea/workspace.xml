@@ -8,19 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="week3_screenshots">
-      <change afterPath="$PROJECT_DIR$/screenshots/week6/branch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueueInterface/EmptyQueueException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueueInterface/LinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueueInterface/LinkedStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueueInterface/QueueInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackAndQueueInterface/StackInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreePackage/BinaryNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreePackage/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreePackage/BinaryTreeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreePackage/EmptyTreeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreePackage/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreePackage/TreeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreePackage/TreeIteratorInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreePackage/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreePackage/BinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +57,7 @@
     "Application.Recursion.Main.executor": "Run",
     "Application.StockLedger.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.All in AD325_Exercises.executor": "Coverage",
+    "JUnit.All in AD325_Exercises.executor": "Run",
     "JUnit.LinkedDequeTest.executor": "Run",
     "JUnit.StockLedgerTest.buy.executor": "Run",
     "JUnit.StockLedgerTest.contains.executor": "Run",
@@ -110,7 +99,7 @@
       <recent name="StockLedger" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in AD325_Exercises">
+  <component name="RunManager">
     <configuration name="All in AD325_Exercises" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AD325_Exercises" />
       <option name="PACKAGE_NAME" value="" />
