@@ -27,6 +27,68 @@ public class BinaryTree<T> implements BinaryTreeInterface<T>
     } // end constructor
 
 
+    /**
+     * @param root
+     * @return number of leaves
+     */
+    public int countLeaves(BinaryNode root) {
+        // if root is empty return 0, base case
+        if (root == null) {
+            return 0;
+        }
+        // if root has no children it is a leaf return 1
+        if (root.getLeftChild() == null && root.getRightChild() == null) {
+            return 1;
+        }
+        // recursive call on left and right subtrees
+        return countLeaves(root.getLeftChild()) + countLeaves(root.getRightChild());
+
+    }
+
+    public int countLeftNodes(BinaryNode root) {
+        if (root == null) {
+            return 0;
+        }
+        int count = 0;
+        if (root.getLeftChild() != null) {
+            count = 1;
+        }
+        return count + countLeftNodes(root.getLeftChild()) + countLeftNodes(root.getRightChild());
+
+    }
+
+
+    public boolean isFull(BinaryNode root) {
+        if (root == null) {
+            return true;
+        }
+        if (root.getLeftChild() != null && root.getRightChild() != null) {
+            return isFull(root.getLeftChild()) && isFull(root.getRightChild());
+        }
+        if (root.getLeftChild() == null && root.getRightChild() == null) {
+            return true;
+        }
+        return false;
+    }
+
+    public static BinaryNode removeLeaves(BinaryNode tree) {
+        if (tree == null) {
+            return null;
+        }
+        if (tree.getLeftChild() == null && tree.getRightChild() == null) {
+            return null;
+        }
+
+        tree.setLeftChild(removeLeaves(tree.getLeftChild()));
+        tree.setRightChild(removeLeaves(tree.getRightChild()));
+
+        return tree;
+
+    }
+
+
+
+
     // setTree is converting the interfaces passed in to Binary Tree type/
     public void setTree(T rootData, BinaryTreeInterface<T> leftTree,
                         BinaryTreeInterface<T> rightTree)

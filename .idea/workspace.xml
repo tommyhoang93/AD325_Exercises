@@ -8,15 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="week3_screenshots">
-      <change afterPath="$PROJECT_DIR$/screenshots/week6/branchmerge.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreePackage/BinaryNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreePackage/BinaryNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TreePackage/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreePackage/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreePackage/BinaryTreeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreePackage/BinaryTreeInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreePackage/EmptyTreeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreePackage/EmptyTreeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreePackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreePackage/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreePackage/TreeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreePackage/TreeInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreePackage/TreeIteratorInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreePackage/TreeIteratorInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
