@@ -8,8 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="week3_screenshots">
+      <change afterPath="$PROJECT_DIR$/screenshots/week7_LeetCode/BinarySearch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/week7_LeetCode/DeleteNode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/week7_LeetCode/InsertNode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/week7_LeetCode/week7_branch.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreePackage/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreePackage/BinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +29,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="week6" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -72,7 +80,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "week6",
+    "git-widget-placeholder": "week7",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/student/Desktop/Data Structures/AD325_Exercises/src/Main.java",
     "project.structure.last.edited": "Modules",
@@ -82,11 +90,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots/week7" />
       <recent name="$PROJECT_DIR$/screenshots/week6" />
       <recent name="$PROJECT_DIR$/screenshots/week5_sc" />
       <recent name="$PROJECT_DIR$/screenshots/week4" />
       <recent name="$PROJECT_DIR$/screenshots/vc_screenshots" />
-      <recent name="$PROJECT_DIR$/screenshots/other_screenshots" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -99,7 +107,7 @@
       <recent name="StockLedger" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.All in AD325_Exercises">
     <configuration name="All in AD325_Exercises" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AD325_Exercises" />
       <option name="PACKAGE_NAME" value="" />
