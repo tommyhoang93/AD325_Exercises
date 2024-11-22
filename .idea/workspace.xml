@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="week3_screenshots">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2e0dc7f0-2cde-4476-a46d-3b67b266ee3e" name="Changes" comment="week3_screenshots" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,44 +51,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedList.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Recursion.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StockLedger.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;JUnit.All in AD325_Exercises.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LinkedDequeTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StockLedgerTest.buy.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StockLedgerTest.contains.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StockLedgerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StockLedgerTest.getEntry.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StockLedgerTest.sell.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;week7&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/student/Desktop/Data Structures/AD325_Exercises/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayMain.executor": "Run",
+    "Application.LinkedList.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Recursion.Main.executor": "Run",
+    "Application.StockLedger.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.All in AD325_Exercises.executor": "Run",
+    "JUnit.LinkedDequeTest.executor": "Run",
+    "JUnit.StockLedgerTest.buy.executor": "Run",
+    "JUnit.StockLedgerTest.contains.executor": "Run",
+    "JUnit.StockLedgerTest.executor": "Run",
+    "JUnit.StockLedgerTest.getEntry.executor": "Run",
+    "JUnit.StockLedgerTest.sell.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/student/Desktop/Data Structures/AD325_Exercises/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screenshots/week8_leetCode" />
       <recent name="$PROJECT_DIR$/screenshots/week7" />
       <recent name="$PROJECT_DIR$/screenshots/week6" />
       <recent name="$PROJECT_DIR$/screenshots/week5_sc" />
       <recent name="$PROJECT_DIR$/screenshots/week4" />
-      <recent name="$PROJECT_DIR$/screenshots/vc_screenshots" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
